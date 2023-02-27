@@ -98,16 +98,6 @@
 
 ---
 
-<br/>
-<br/>
-
-<a href="https://github.com/Nikhil-ODRDLabs/github-readme-activity-graph"><img alt="Nikhil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nikhil-ODRDLabs&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
-
----
-
 ### Connect with me:
 
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhil-krishnan-odrdl/)
