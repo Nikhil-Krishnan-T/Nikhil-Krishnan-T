@@ -8,15 +8,15 @@
 
 ### 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Project Destiny A.A.I] As Data Analyst()**
+- 🔭 I’m currently working on **[Project Destiny A.A.I] As Data Analyst(https://github.com/Our-Destiny)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Data Structures & Algorithms And Machine Learning**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 📫 How to reach me : **nandhunandhunph@gmail.com**
 
-- ⚡ Fun fact **I play games, design graphics and practice martial arts.**
+- ⚡ Fun fact **I play basket ball, does photography and practice martial arts.**
 
 ---
 
